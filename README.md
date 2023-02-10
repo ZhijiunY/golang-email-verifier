@@ -2,7 +2,8 @@
 
 Learn from Akhil Sharma on Youtube
 
-一些名詞解釋
+一些名詞解釋：
+
 SPF (Sender Policy Framework) 寄件者政策框架：
 SPF 用來規範在選定的郵件發送服務器位址，可以用來發送寄件人的網域郵件。這樣機制可以避免垃圾信濫發業者，偽裝網域發送假冒郵件。SPF 的設定裡面，列出明確許可的郵件發信機網域名稱，郵件收信服務器透過檢查發信人網域的 SPF，就知道這封電子郵件是否來自被允許的發信機位址。
 
@@ -16,4 +17,5 @@ SPF (Sender Policy Framework) 的作用、語法和設定方式。 簡單來說�
 
 來自：
 https://www.richesinfo.com.tw/index.php/mxmail/mxmail-faq/267-dkim-dmarc
+
 https://tech-blog.cymetrics.io/posts/crystal/email-sec-settings-spf/
